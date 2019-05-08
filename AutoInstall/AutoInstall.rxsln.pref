@@ -8,6 +8,6 @@
       <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
     </ArrayOfString>
   </SerializedValue>
-  <ProjectBrowserState value="[Solution AutoInstall[AutoInstall[CheckMissingDLLsOCXs.rxrec[]Compare17Folders.rxrec[]DeleteCompareFiles.rxrec[]DeleteReports.rxrec[]WhatsNewButton.rxrec[]]]]&#xD;&#xA;Solution AutoInstall\AutoInstall\PlusPivotReportDesigner.rxrec&#xD;&#xA;Solution AutoInstall\AutoInstall\ExportToAccounting.rxrec" />
+  <ProjectBrowserState value="[Solution AutoInstall[AutoInstall[Reports[]AutoInstallRepository.rxrep[]CheckMissingDLLsOCXs.rxrec[]Compare17Folders.rxrec[]CompareServerAndWSBin.rxrec[]DeleteCompareFiles.rxrec[]DeleteReports.rxrec[]SQLDriverReadmeExists.rxrec[]WhatsNewButton.rxrec[]]]]&#xD;&#xA;Solution AutoInstall\AutoInstall\AutoInstall.rxtst&#xD;&#xA;Solution AutoInstall\AutoInstall\Reports\AutoInstall_20180518_151822.rxlog" />
   <StartupProject value="{BB0EE2AF-7DCE-4E09-92C1-B283B3F874A8}" />
 </Properties>
